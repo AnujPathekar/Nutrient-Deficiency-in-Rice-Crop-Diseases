@@ -1,6 +1,6 @@
 # Nutrient-Deficiency-in-Rice-Crop-Diseases
-![Image Classifier](https://i.pinimg.com/736x/29/cb/89/29cb89853973a4fa21895b29f4f92cd1.jpg)
 
+![Rice Leaf Disease](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEze8YtXObKeMjVl-uUvzkZItnMN-F6kSVnGP29aqvMPju8FNudEKgaScPMC6bLatHlTM&usqp=CAU)
 ## Project Description
 The "Nutrient Deficiency in Rice Crop Diseases" project aims to develop a deep learning-based solution for identifying and diagnosing nutrient deficiency in rice crops. The project focuses on leveraging computer vision and machine learning techniques to assist farmers and agricultural experts in detecting and addressing nutrient-related issues in rice fields. The main objective is to demonstrate the use of deep learning for image classification tasks.
 
