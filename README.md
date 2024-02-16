@@ -27,12 +27,6 @@ cd deep-learning-image-classifier
 pip install -r requirements.txt
 ```
 
-## Usage
-Run the following command to start the image classifier:
-
-```bash
-python image_classifier.py --image_path path/to/your/image.jpg
-```
 
 ## Dataset
 The image classifier uses the CIFAR-10 dataset for training and validation. The dataset is automatically downloaded and preprocessed during the first run.
